@@ -1,0 +1,1 @@
+python run_classifier.py --task_name=cola --do_predict=true --data_dir=C:\Users\admin\InternshipTask\bert\ --vocab_file=C:/Users/admin/bert_uncased/vocab.txt --bert_config_file=C:/Users/admin/bert_uncased/bert_config.json --init_checkpoint=./bert_output/model.ckpt-12699 --max_seq_length=128 --output_dir=./bert_output/

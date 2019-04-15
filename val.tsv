@@ -1,0 +1,593 @@
+id	sentence
+1310_1	im not asking microsoft to gives permission like android so any app can take my data but dont keep it restricted like iphone
+1312_1	somewhere between android and iphone
+1313_1	and in the windows store you can flag the app requires trust for example
+1313_2	many thanks sameh hi as we know there is a lot of limitations is wp os due the high security in the os itself which is very good but some time we need to allow some apps to do extra works apps which we trust ie hotmail app facebook app skype app
+1313_3	the idea is that we can develop a regular app and we request our permissions in the manifest or the app can ask for trust more
+1316_1	please add this simple and extremely helpful feature
+1318_2	why not let us have several pages that we can put tiles on and name whatever we want to
+1319_1	the idea is if user running our app and by any reason he rebooted the phone so in that case once reboot happen there should be some event so that we can detect that phone is rebooted and we can handle our application accordingly
+1319_2	add support for the biometric framework from windows to allow hardware manufactures to add fingerprint sensors for device login login allows standard user guestkid mode and for wallet wp transaction activation
+1319_6	it would be more natural to allow the physical search key to activate the search function on the active application rather than loading bing which is rarely the goal
+1319_7	allow platform builtin camera and video apps to use increase and decrease volume hardware keys for picture optical and digital zoom of camera
+1319_8	on wp add optional support to hook these hardware keys press events for the lens plugin featureshardware keys should include vol vol stage light press camera shutter stage deep press camera shutter
+1319_9	i believe there needs to be a marking system in the os like the option of marking several emails in the pop mails
+1319_10	if i intend to delete several filesphotos songs there should be an easier way to do it
+1319_12	you can put other apps in one folder and put on startscreen like a tile
+1320_1	this is total uncomfortably i think about give to user a choose what he want to bind on search button
+1321_1	it would be awesome
+1321_2	make it so that you have to enter a password for apps of your choice
+1324_1	big files cant be transfered using skydrive it is not praticle
+1325_3	it would be an improvement if they displayed as graphic smilies instead
+1328_1	the usercontrol should run in the context of the application that created the alarm or reminder and as such would have access to the appropriate view models
+1328_3	need an option to remove unused variables in cs file for re factoring
+1329_1	use the usb as removeable disk
+1329_2	pls introduce pattern lockscreen like android
+1330_4	only after repairing the installation will the emulator work
+1330_5	if i close the emulator and try to run it again
+1330_6	it fails with a uninformative message indicating deployment failed
+1330_7	information on the screen locked temperature news of facebook and twitter and lock with letters and numbers
+1330_8	search text
+1330_9	i wish apis for save photos in camera roll in png format not only as lossy jpeg format
+1330_10	having native access to opencl or c amp support would be nice to have especially with the newer hardware arriving with wp
+1330_11	please help me i am ahmed from iraq i wanna get arabic keyboard in my wp please
+1330_12	when an application has problems or when a problem is detected in advance by the developer until the publication of the correction version the client is without knowing what is happening
+1330_13	this way we can give a satisfaction to all who buy or evaluate our applications
+1330_14	this communication channel can use the bing translator to generate the statement in the languages in which the application has been translated
+1330_15	i believe it is a feature that will cherish microsoft to customers and that demonstrates respect for the consumer
+1330_16	in some cases missing answer key after unlock when phone is locked also missing call alert network enabledisable network code is for verify for enable and for disable
+1330_24	what i am asking for is some key that will act like the screenshotcapture command without me having to change tabs in the emulator window or release the accelerometer
+1330_25	even something as simple as ctrls would be a godsend for me
+1331_1	if i am lucky i can do it before my character dies even then though the player is just moving in a straight line to nowhere more
+1332_1	please allow users to view comments in office docs ie word ppt excelalso allow user to add comments on these docs
+1335_1	provide a single link to retrieve all the applications by a specific publisher like the android market
+1336_2	please show the scrollbars in the webbrowser control
+1337_2	there are times when this is greatly needed
+1337_3	the other smartphone platforms like android ios and blackberry supports launching one app from another and passing data between them
+1338_1	this is really important when a same organisation develops multiple apps and wants them to interact with each other
+1338_2	if this feature will be implemented without affecting the security model of wp then it will be great for the wp developer world
+1338_3	i keep getting birthday notifications a day too early
+1339_1	the date in the peoplehub does not align with the calendar
+1339_2	with wp we have the unique ability to offer trails for paid apps which is great
+1342_1	however it would be nice if developers could offer free apps with a possibility to users for voluntary donations
+1342_2	some devs do the workaround and offer a paid app with the trial version having no restrictions at all if the user clicks buy he essentially donates to the dev
+1342_3	however this workaround has the disadvantage of the app not apprearing in the free category though they are actually free
+1343_1	therefore it would be great if devs could put apps in the marketplace offering two buttons install free and install and donate eg
+1343_3	the price could be splitted just like with paid apps just with the difference of the app appearing in the free category
+1344_2	the current process is very lengthy and costly for non us developers
+1344_3	why cant microsoft simplify it
+1345_1	make it similar if not the same as google
+1346_1	having read through the cumbersome process i am more incline to build free apps with subscription rather than getting any money through the marketplace
+1348_1	having to deal with physical paperwork sending it back and forth is a step backwards we are living in a digital world
+1348_2	there are heaps and heaps of really good developers outside of us who really want to contribute to making windows phone a preferred choice so please microsoft make it simplier and make it digital
+1348_4	it would be really helpful if for example a developer makes an app that takes advantage of the schedule alarm api and would like to enable the user to select a custom ringtone for that alarm
+1349_1	this api proposal would enable the user to select from many ringtones already available on the phone and save developers the trouble of having to implement their own custom ringtones
+1350_1	if you try to copypaste multiple recipient number to the to box in the messaging the nd until the last number will be duplicated
+1353_3	even as a developer we can create most of the apps for individual users that is standalone
+1353_4	if we need to target corporates then then we would need more apis for device management also like zune for a single user we would need an enterprise server application which can control the devices of employees remotely where we can apply corporate policies on the device as well
+1353_5	make some usefull app that run ussd code
+1353_6	please allow the access to gmails todo list sync when a google account is added on the windows phone
+1353_7	under calendar i see the todo list of hotmail and i like it it would be great if i can add the gmails ones too and have the ability to make changes when sync happens or just have the ability to add todo items and those get sync to the phone
+1353_8	hi the biggest icon size requited is x bit in the marketplace single app page this is resized to x losing quality
+1353_9	you cant addupdatedelete alarms or reminders from a backgroundagent
+1353_10	itd be great if we at least has the ability to changeedit reminders and alarms that were created by that app
+1356_2	and i want to get that response to my app to hanle it
+1357_2	it would be very useful to be able to change the names that my apps appear as when i check the app hub dashboard
+1358_5	developers must be given additional enumeration values in socketype and protocoltype to create variety of sockets like raw sockets based on icmp igmp etc
+1358_6	allow to create alert and reminder from background task execution
+1358_13	allow orientationhorizontal on a listbox i would like to use the selectionchanged event handler to create a menu using the listbox control
+1359_6	as the heading says provide tools to prevent users from reinstalling apps rather than buy the full version and stop devs from being deprived of purchases that they deserve
+1361_2	as half the point of my app is the information on the live tile id like to have a polite reminder show every so often if they havent pinned it but i simply dont know whether they have or not
+1361_8	disable the feature entirely
+1361_10	detect when there is a screen shot attempt so we can programmatically not display obscure or watermark our graphics
+1361_15	like android we need phone level events like sms receivedsent event camera onoff event phone turned onoff event keypad lock event etc
+1363_3	i would like a phone remote in windows
+1366_2	once a application is installed in wp there should be some way to run that application without user input ie
+1368_1	specifically we will want the ability to have selective enabling of application features so that when the wp are run after serverside conversion
+1369_1	on newer hardware they switch to the newer profile
+1369_2	barring that at least allow for merged listings for wp and wp versions so that customers have a clear upgrade path for the same application
+1370_1	or you could just support the native sdkdirect x on wp
+1371_1	ill take that over the previous two
+1372_1	barring that at least allow for merged listings for wp and wp versions so that customers have a clear upgrade path for more
+1373_1	the concept explains itself well in below blogpost winrt transitions creating fast and fluid metro uis
+1374_1	using vodafone gsm and the used data includes unicode characters thus whole message is failed
+1374_2	i could imagine that in the same way the smsicon is shown on the lockscreen a mini app icon is shown aswell from apps that got notifications facebbok whatsapp
+1375_1	add an option to delete future appointment in calendar and preserve previous when used the option to repeat
+1375_2	platform should provide access to call log so you can create applications which for example retrive unknown numbers from call log and find their information from public directories
+1375_3	the customized unlock apps are very popular on android and symbian we hope that we could do the same on wp
+1376_2	at the moment there is to relation between companies and countries
+1376_3	its ok for small business but what about bigger one
+1376_4	we have several devcenters in countries and extra salesoffices in more countries
+1376_5	same time wp registration intends we must use country only
+1380_14	these descriptions also appear differently depending on where they are being viewed web zune on computer or device
+1380_15	the update description field has a documented purpose but then in the forums i read that this field does not appear in the marketplace
+1380_16	please provide a way to predictably introduce newlines into the description fields let me see how these fields will render in the different environments wysiwyg show me how the update description will be used in my updated app there does not seem to be a way to control newlines in the application descriptions on the marketplace
+1380_17	please provide a way to predictably introduce newlines into the description fields let me see how these fields will render in the different environments wysiwyg show me how the update description will be used in my updated more
+1381_1	quicker way to go to the bottom of the metro screen to view tons of pined apps
+1381_2	i currently develop for android and ios
+1381_3	i am interested in developing for windows phone but would need a device to pay registration and learn a rd platform to do so
+1381_4	that involves a lot of time which is a large risk to smaller development companies
+1382_1	if microsoft created some incentives like a free device blackberry did this and a free year of membership amazon did this it could drive a lot of developers to the platform which is crucial to the platform taking off
+1382_2	i would jump at the opportunity to adapt my apps for windows phone if microsoft created incentives for me to try the platfrom
+1383_1	cant use keyboard in landscape mode in some app
+1383_2	you would finally be able to add and customize your alert and text sounds
+1383_5	of course each app would have permission accepted by user and each app would have own isolated storage for more private
+1383_6	it would be nice to see windows phone move to optional vector based icons instead of static bitmaps
+1383_7	this would allow the application bar or appbar to resize if say hd screens were added
+1383_8	ideally users would only need icons for the marketplace tile contains the application name and list just the icon for the app list
+1383_9	appbars could be created at x and resized as needed
+1383_10	i know this is a pain on developers that are not designers or have designers but an option would be nice time saver for the future
+1386_2	it would be nice to be able to delete a cert you have uploaded
+1391_1	id like to be able to decorate my home screen by pinning my favorite photos directly from within the pictures application
+1395_1	allow users to organize tiles into separate hubs
+1395_3	a secondary start hub i can use to store occasionally used apps would be good
+1395_4	an automated hub for recently used apps would also be good
+1398_1	please allow the access to phone filesystem
+1399_1	it would be a great benefit if the developers can manipulate the sdcard resources etc etc
+1404_1	hp have the eprint functionality apple the airprint
+1404_2	can you not make connection to these devices possible
+1404_4	i want to give a textbox a placeholder text
+1404_5	this now requires creating a custom control
+1404_6	i want this to be available out of the box
+1404_7	oh and i want the option to create labels for the textbox
+1404_8	provide the access to pictures in photochooser and camera roll in emulator
+1404_9	since the easiest way to get hold of files to be used in programs is by downloading them from a network or the internet and saving them in isolated storage it would make the whole thing a lot easier if you could do this with ftp
+1404_10	ftp is still one of the most used protocols for retrieving files
+1404_11	and using a proxy is not always an options since some of us would like to be able to reach ftp servers that is on a separate network
+1404_12	imap idle for push emails and sync read forward and answered mails plus sync send folder
+1404_13	email for business is very impotant
+1404_14	for all the guys girls over the years old de need a really big clock in the main display
+1404_15	thanks sorry about my english
+1405_1	positioning cursor is almost imposible
+1406_1	wp should support ussd menu and umb as well
+1407_1	once removed the metro interface looks good from a desktop app but on the mobile phone is horrible
+1407_2	when the volume is in the rang the volume does not decrease
+1407_4	continuing my prior post about allowing us to explicitly flip secondary live tiles with a tap instead of launching the app this request would allow such an action to explicitly update the tile by triggering a function call in a background task
+1408_1	perhaps these two ideas are combined and you define which action to take when creatingupdating the tile flip the tile execute a background task or both or simply launch the app like normal possibly with deep toast
+1408_2	that would really make livetiles live which now they kind of arent and were by far the biggest disappointment when we saw the actual sdk
+1409_1	coming from ios when we did see that we scrapped two apps we were going to release on wp
+1409_2	a third was scrapped because of the inability to do location tracking in a background task more frequently than once every minutes which is sort of the same stale data issue as here
+1409_3	since its userinitiated it wouldnt drain more
+1409_4	in the schedule namespace ist isnt possible to have access to the media library to play songs user has already on his device please add this function to get access to the media library
+1411_1	another thing is to have the possibility to modify the notification which is shown when the alarm or reminder rings
+1413_1	we need to open our application or to overwrite the notify to costumize it to get a better improvement for the user
+1414_1	extend the api to query phone volume and vibration settings maybe even set them
+1418_1	please provide validation templates for windowsphone controls
+1419_2	however not everybody has a physical device so having those experiences in the emulator would be a great addition to the dev tools and resources
+1419_3	would be nice and useful to have email messages grouped by date same as contacts grouped by initial letter
+1421_1	for sharing audio and video there should be a very plain possibility to share stuff as already encoded package
+1421_3	perhaps that could be available as toolkit in codeplexcom
+1422_1	there needs to be an alpha test mechanism available
+1424_1	since the beta test versions i recently submitted have been waiting for certification for days there is no way for us to work together on this
+1424_2	my boss is not a developer and has no development tools but absolutely needs to see the progress of development in a timely manner
+1425_1	if the beta program certified apps in a day then this might not be a problem
+1425_2	as it is it is hardly usable as a beta test program since our customers also need to see the app and improvements in a timely manner
+1426_1	we need support special multitasking tasks like voip and im
+1426_2	we cant create good apps for this services without this api looks on your skype client wtf
+1426_3	ios already has this apis
+1428_2	volume on headphone when phone rings while listening to a song raise to max volume
+1429_1	multiselect on zune to delete albums or to create a playlist
+1429_2	readwrite accsess to email sync settings could enable applications to create custom sync profiles based on weekdays time position etc
+1429_3	implement soundwave touchless api on the phone for touch free metro
+1429_4	microsoft boffins showed how they can use audio via the speaker and microphone and a dopplar computation to detect gestures without touching the screen
+1429_5	i want to use that on the phone for some games
+1429_7	in the submission process publishers should be able to check a box for apps that are made for individuals or older and or older
+1429_8	this should flag a feature in the marketplace when an app is being downloaded to verify the age of the downloader
+1429_9	in wp you can add multiple accounts of different types live google facebook etc
+1430_1	it would be nice to be allowed to get basic information about these accounts
+1431_1	for example get a list of all email accounts and for each account report the number of unread emails
+1431_2	i think there are two ways to improve the beta program
+1432_1	make apps available immediately
+1433_1	when developing on ios using testflight or android we dont have to wait two hours for beta code to be approved
+1434_1	we upload a new version or have the users download an update immediately
+1435_1	if immediate approval is not possible then apps that have been published should be immediately available
+1435_2	when we receive emails saying the beta application is published users are not able to download the application with the very own links provided in the email
+1435_3	users are reporting a day time between when the app is approved to when it is available for download
+1435_4	users receive a strange marketplace error when trying to download the application
+1437_1	when developing apps it is often useful to leverage existing launchers and choosers as tasks to access certain data or perform an operation
+1437_2	currently this is only exposed for systemlevel data and operations
+1438_1	it would be ideal to allow apps to expose certain bits of data or functionality to other apps to provide a complementary experience in terms of reuse of information or performing similar tasks
+1438_2	imagine shopping apps being able to share a set of data such as a wish list or news apps being able to share a list of news feeds
+1440_1	imagine having an installed app do what it does best for another app such as perform a series of complex calculations or gather weather data
+1440_2	it would be the responsibility of the app to decide what it exposes for data or functionality
+1440_4	this can first be alleviated as with other security screening by prompting the user to allow an app to access another apps tasking features
+1440_15	in such case youd better make your videos carefully so that it can leave a good user experience to the potential clients
+1440_16	if you convert video to flv flash video which features much smaller size than popular formats your videos will be watched unhinderedly with quick loading
+1443_3	select flv as output format
+1443_4	if you are more requirements of your video such as bit rate encoder etc you are do these settings one by one in the popup formats window
+1443_5	when everything is finished you can click start button to start the video to flv conversion process
+1443_6	you are allowed to preview the converting process in slideshow
+1443_7	as computer owners have installed flash plugin in web browser so its naturally that flv or swf flash videos are more acceptable than popular videos formats such as mp avi mpeg or ect
+1443_8	if you convert video to flv flash video which features much smaller size than more
+1443_9	allow the backgroundaudioplayer to play tracks from the medialibrary
+1443_10	or allow applications that implement the xna mediaplayer class to run in the background
+1444_2	please add the possibility to add your own spell check service or provide the data if a system wide one existed
+1444_3	when i want to build some tiles in my app i have to use buttons that i give a custom style
+1445_1	but this is ugly since everyone implements this in another way resulting in odd alignments bad text colours etc
+1446_1	we need a simple and standardized way to create simple tiles that function as buttons
+1446_2	beta testers test our apps for free
+1446_3	it would be nice if when the appgame is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to buy it
+1448_1	androidios and blackberry are compatible with this api so why dont we
+1449_1	i would be a really nice gesture to have an option which can put everything to the other side so when left handed people scroll they could also see the content
+1449_2	visual studio and new expression blend
+1449_3	merge products together
+1449_4	add open app in marketplace in the app menu rate review uninstall pin to start
+1449_5	it does not look professional when scrolling upward at the end of any page or downward at the top the content of the page regardless of material or application will be stretched down
+1449_6	it is part of the effect through the whole operating system and does not particularly belong to any application
+1449_7	sometime the stretched content of the page does not look professional
+1449_10	we need upd broadcast to search for our devices in the network
+1449_17	when an exception is thrown and intercepted by the debugger edit and continue permits to change your code right while debugging to make the code continue
+1451_2	we can allow music that is not copyrighted to be accessible if that is a huge issue
+1452_3	link to sql is not efficient at all could they include sql sqlight or other library
+1454_1	it s impossible to connect easily to ftp network i suggest to include it in the future sdk
+1455_1	we want an office hub that open openoffice document
+1456_4	currently for dynamic data binding controlls like listbox is recommended
+1459_1	why cant i change phone search and ie search to google or another provider that actually work
+1460_6	fix bing or fix the phone
+1464_2	at best this is unclear but should the user pan or zoom they lose the frame of reference for the place were trying ot show them
+1464_3	you can sometimes work around this behaviour by specifying a search for the place youre trying to indicate but this is dependent upon the search results
+1465_1	if the search finds nothing you get no pin
+1465_2	or if the search finds something other than what you intended you can end up with a pin or pins far from where you want them
+1466_3	if it were possible to tell the task to show a pin or pins at a specific point or points that that would allow for a better user experience
+1467_1	even if we could just specify a label for the pin that would be better than nothing
+1469_1	add an option private to lock photos movies songs calendar appointments
+1470_1	an exit button should be there on all application softwares
+1470_2	show used volume so you can see how much mb of your inclusive volume is already used
+1471_1	we could just upload a csr and microsoft provide a signed certificate via their own ca
+1472_2	it would be nice if a choice between vibration and the sound is given for typing
+1473_1	pin settings airplane mode wifi etc in the start screen
+1476_3	allowing for tester groups or profiles would allow for efficient test setup in the marketplace especially for multiple products by allowing a group to be assigned to the app as it is entered in the marketplace as a beta
+1477_1	additionally it would be great to have additional support for enterprise developers that target a specific set of clients as opposed to the public masses of the marketplace
+1477_2	first an enterprise developer account could be established with a cost of say which is high enough to deter hobbyists or smaller companies from enrolling while at the same time providing additional benefits to larger enterpriselevel corporations
+1479_2	ideally a mini storefront or splash page for the company and product would help draw in clients
+1479_5	allowing for tester groups or profiles would allow for efficient test setup in the marketplace especially more
+1479_6	if the app shows sensitive data when deativated it would be good to be able to use a different image for fast app switching instead of a screenshot of the application
+1479_7	daemon service should be turnable on and off per app basis in the same way like periodic tasks
+1481_2	microsoft should advertise windows phone development apis in visual studio
+1481_4	please make it instead fire an event which could be used to open an apps search bar or page
+1485_3	at least support displaying static gif image
+1485_10	back and forward buttons needed not the capacitive back button
+1485_12	please consider to enable support for unsafe code in silverlight and xna apps
+1488_7	maximizing all current main apps would be better than having mil appd in the marketplace
+1490_1	create option to allow periodic agents to run even if app has not been opened for x days
+1491_1	this gives my family up to four live accounts
+1492_1	on an xbox we can log in and play games no problem yet a w phone allows for only one user
+1492_2	i cant even log in to another account to check or edit it let alone play games with it
+1492_3	a certain rival brand of phones allows users to switch between their live equivalent accounts with no problems whatsoever
+1492_4	i bought my wp phone with gaming in mind but theres more than one gamer in this house please make it possible for several gamertags to be used on one device
+1498_7	keeping the message as draft when exiting would save me the hassle of having to type it again
+1499_1	can we have windows phone development using visualstudio lite ide which includes only phone developement
+1500_8	start by expanding the number of apps that can use a certain key word such as childrens stories so that new apps who innovate can displace those who got their first with potentially crappy apps
+1500_9	secondly you need to limit the number of apps that a publisher can submit with a particular key word
+1504_1	we should have some way within our app to get notify that whether user selected call dont call and when heshe ended call means notification of end call
+1507_6	it would be more useful if specific service apps could be released that would extend these features by for example adding a google option to the sharing interface
+1509_1	would be nice if in power point could have same method as in pictures hub for navigation
+1512_6	received from an mvp this week over email it would be great to be able to have the emulator location data use the nmea file format either via file importexport or using the files directly as a feed
+1512_8	other devices use this format and it would be great to see it supported by windows phone
+1514_3	they all use sip so it would be great to have a native sip client integrated
+1514_11	also a t keyboard would be nice too
+1514_16	i want to be able to add a picture to the media library and then start the sharepicturetask to let the user see and share it from the pictures hub
+1515_2	remove the apps limit from the phone and app limit from the marketplace web site when users search for an app with a search term
+1515_6	add a quick access block buttonfunction to be used when receiving spam over chat
+1515_8	i would like to see a monthlyyearly subscription model introduced that let me charge users a year for my app for example
+1515_10	we really need assembly binding redirection or publisher policies in windows phone
+1519_3	it would be great if you could add png support to the medialibrary so that we can save high quality png files to the picture library
+1519_5	being able to use simple uncompressed wav files would open up many possibilities for ring tone editors and make files recorded from the microphone ready to be used as ringtones
+1519_6	it would be great if the windows phone development team could allow us to use the rstp streaming protocol in net compact framework we use
+1520_2	provide preference setting to categorize apps in the long list by their categories in app store rather than names or alphabetical orderthis is extremely helpful for people with lots of apps and provide the ability to maintain the uniformity of the ui while making it more user friendly
+1520_3	this will provide more usability of the live tiles on the start menuespecially when one needs to drag multiple tiles through long list
+1520_4	please get metequotes to make metatrader for windows phone
+1520_5	need of logger class to log errorinfoverbose and daemon information
+1521_1	as it is available in androidit improves the debugging process
+1521_3	it displays the certificate signer information but you could easily upload two certificates with different cns service names issued by a single ca and you would have no way of telling them apart
+1522_1	minimally it should show the cn from the subject which matches the service name you provide in client code along with the cn of the signer
+1523_1	ideally it would allow you to download the certificate for verification or at least provide a md hash of the uploaded certificate
+1523_2	right now you can upload an unsupported certificate or even selfsigned cert and apphub will not provide any feedback
+1523_3	allow the user to be able to set a custom reminder time such as hours or hours before the calendar entry
+1523_4	at present you only provide fixed values like hr or hr before
+1523_5	tesco club card app shows you points and you have you clubcard bar code avaible on your phone to scan at checkout
+1524_1	apps has your nectar that you are able to scan in stores also shows you your points balance and allows you to shop online and collect more nectar points
+1525_2	i would like a button i can click that will only select the countries for which microsoft already accounts for any taxes
+1530_1	support file transfer such as pdf files
+1533_2	a bevy of restrictions can also be heaped on the said user control in order to maintain performance and not sap battery life
+1533_3	let live tiles be live please
+1533_4	when an alarm pops up an option to edit the reminder should be included instead of having to constantly hit snooze or exit the reminder and go into the object itself
+1536_1	i need a posibility to set the keyboard language from code
+1536_2	the focus on textbox opens the keyboard with the german layout the focus on textbox opens the keyboard with a greek layout
+1536_3	on desktop under net is this no problem windows forms inputlanguagecurrentinputlanguage inputlanguagefromculturenew systemglobalizationcultureinfoareg wpf this is exact what i need inputlanguagemanagersetinputlanguagetextbox new systemglobalizationcultureinfoenus inputlanguagemanagersetrestoreinputlanguagetextbox true i have tested this and it works fine
+1536_4	if the keyboard is not installed nothing changes and the current layout remain
+1537_1	please implement this it is important for me for a translation application
+1538_1	i suggest to create hardware ratings like ones in winows wei for the smartphone in order to help both users and developers to match hardware with apps or games
+1538_2	i think that this ratings will even enable developers to create different versions of the same app pointing to specific hardware
+1538_3	it would be nice to be able to use the computer keyboard when using the emulator
+1538_4	its a bit frustrating to type with the mouse
+1538_5	we cant use some important libraries in the background agent like microsoftdevicessensors that limite our power to creat a good application
+1538_6	currently you can only pin an album but it would be useful if you can pin a single image as a tile that way you have easy access to a it
+1538_8	school schedule bus route or a picture of someone you like
+1538_9	the current adcontrol crashes any app which uses the silverlightxna hybrid mode
+1538_10	apparently this has never worked nor communicated to devs
+1538_11	i normally wouldnt say this is unexceptable but given that silverlightxna hybrid is the new big thing for wp this issue needs immediate attention
+1538_12	which is useful if you want to add an appointment with the same timelocationnotes as a previous one
+1538_13	currently when you press and hold an appointment in the calendar you have the option to edit or delete
+1538_14	you either have reenter all the info or change the date of the old appointment but thats not ideal because you lose record of old appointments
+1538_16	local scout should show more than just results there should be the ability to state the radius from current location and all businesses within that radius should be shown which could greatly exceed also if searching a company name for a small businessrestaurant it would be good if that could show within local results
+1538_17	often i try to search for a restaurant and there is no result under local instead i have to find their website and then their postcode
+1538_18	this would save me that hastle and make planning journeys much simpler
+1539_1	allow an app to disable text messaging preview
+1542_1	allow users to link their app with the me and people hub directly
+1542_2	now that we have api access to contact information it would be useful to immediately be able to click on a contact and open it in a related app eg
+1542_3	skype twitter etc
+1543_1	add a full support of regioninfo and add possibility to instanciate one with two letter iso code
+1543_2	so we can use it to dispal country name with user language
+1544_1	add option to hide keyboard specially when you want to copy a long text the keyboard takes around of your lcd space leaving you with a tiny window to work with
+1544_2	exactly as the title says
+1544_3	can you please create a tesco clubcard app
+1545_1	allow the ability to view ssl certificates on https connections in ie and have the option to install the ca
+1545_5	i suggests to add some kind of storage to store gps poi
+1545_6	in addition this storage may have integration with contacts to allow user have geographical map of his contacts
+1548_1	port internet explorer to a mobile version as soon as ie is ready to get all new ie features to our mobile phones so we can build better webapps for windows phone
+1548_2	pls support fixed possitioned elements
+1549_2	id like to have tiles of various colours on my start screen
+1549_6	allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available
+1549_14	it would be nice if there were an app that logged things that happen on your phone ie
+1549_15	it would be also great if there were an icon in the status bar that indicates that that are new eventsnotifications
+1552_1	id like the ability for an application to be quick loaded from the righthand corder of the lock keypad
+1552_2	if thats not possible allow a button to be overriden and pressed during the locked screen process
+1554_1	also i want to be able to set the left of power for when the batterysaver kicks in
+1555_1	the default setting is way too lateid prefer or more remaining before turning on
+1555_4	itd be very convenient for developers without actual devices to test their apps for the certification requirements if everything could actually be tested with the emulator
+1556_1	please upgrade the youtube app by microsoft corp with metro ui instead directing to a mobile site
+1558_5	expose the songcollection class so we can add and remove song objects from custome song collections
+1558_7	allow the backgorundaudioagent to utilise the xna framework so that the devices song library can be played and manipulated from the background
+1558_8	you would also need to provide a conversion mechanism to convert a song to an audiotrack as is the default file type for the bap
+1558_9	relax the restrictions around application running under a locked screen andor in the background
+1558_13	unless of course we go with a predetermined songcollection such as songcollection limitedplaylist more
+1558_15	we need the ability to build apps that are capable of video editing for wp
+1559_1	please devgroup make this apis should enable developers to build apps that include the ability to do video trimming editing and saving to the video library
+1559_2	this is needed to build voip application
+1560_1	playing audio stream in loudspeaker is uncomfortable for users
+1560_2	sir i have samsung omnia w its running latest update
+1560_3	when i charged my phone then the key press becomes laggy and hard
+1562_1	allow applications to define custom shaders in hlsl
+1563_1	this will allow sophisticated game graphics and realtime image processing
+1563_2	also allow access to mp encoder library hardware accelerated so apps can generate their own videos
+1564_1	this should also allow apps to read existing videos modify frames and write them back
+1564_2	for gps tracking apps
+1566_1	there is an android app which displays all local wifi connections with their channel number strength and of course name
+1567_1	wpf should have one like this too
+1567_2	currently i can detect and control what the embedded zune player is currently playing
+1567_3	the same cant be done with rd party apps implementing background audio streaming like soundtracker etc
+1567_4	hello thank you for this site
+1567_5	i was very happy to be able to scan barcodes from the search button and i would like to use this in my application
+1571_4	the design guidelines should be the law
+1572_1	dont allow ugly interfaces be stricter on things like navigation general look and feel even animation
+1573_1	give developers good explanation what they do wrong and enforce good design
+1573_2	if something is unresponsive it should not be allowed unless there is a clear and good reason for it
+1573_3	apps should take no longer than seconds to start and need to explain why they would take longer
+1573_4	make the marketplace of the highest quality out there
+1573_5	support for webgl like the rest of the world microsoft have done this too many times we as ms developers are starting to look stupid years behind on the mobile market ballmer ipads are just under powered pcs gates the internet is just a fad enough admit you are wrong early rather than late its much easier that way
+1573_6	the biggest problem i almost exclusively run into when working on wp apps is the layout performance of silverlight
+1574_1	its takes quite some effort to work around that problem
+1575_1	and according to web searches about this problem i felt that i am not a lone with this
+1577_1	itd be great if you would work on a solution to improve the situation
+1577_2	too often we come across a word in an app we might not know or we just want to confirm the meaning of it we colud look it up right where you are without the need to exit n go in to another app
+1577_3	with this mod we can enjoy the platform more the than ever before is to make in the landscape like the upcoming windows or like the original tile home screen from up to down or down to up
+1578_1	an address bar should be added to calendar items to give the location of your appointmentmeeting
+1578_2	this address should be visible on the bing maps showing you the location of your calendar item
+1579_1	vice versa you should be able to schedule via the bing maps adding a location on the maps and linking it to the calendar
+1580_1	return back a multitask support may be optional will significal improve advanced users experience
+1580_3	in current situation its almost impossible to create some kind of applications such as different trackers survilence etc
+1580_4	a color picker control just like the one in the phones settings would be really useful for apps which want to offer the user a choice of colors
+1580_5	i know i can code one but it should be one of the standard controls
+1580_6	the current ie mobile browser doesnt support keyup correctly
+1580_8	id like to show youtube videos in my app
+1581_2	i would like to have control over the size positioning and playback of a video
+1582_1	there should be an option to change the working of these buttons to double click so that a slight
+1585_3	allow for video camera control start and stop recording from the touch screen instead of just the camera button
+1589_2	a demo or prototype category like it exists on android would solve this issue
+1589_3	as of now the number of contacts that can be added to a group is restricted to please remove the cap
+1589_4	already music streaming is supported but only for single songs
+1589_5	wouldt it be great to add albums to skydrive and stream them directly from there
+1589_6	prefferably the albums would be integrated in the music videos hub similarly to jow skydrive pictures are integrated in pictures hub
+1589_7	all notifications should exist in a pull down shade in iosandroid style
+1589_8	the pull down shade should take on the color theme you have choosen for your phone
+1589_9	notifications should exist within the shade as black tiles and will illustrate the notification type and a short phrase from the email sms text facebooktwitter mention etc
+1589_10	have a background agent enable all the time to execute an application event not execute them periodically
+1589_11	ability to add a custom buttons to system call app like in screenshots click on button will launch some callback which will access to
+1589_12	access to call voice stream inout
+1589_13	access to call controls can initiate a new call end exists etc all features provided by standard buttons on call page
+1590_1	currenty when you hit the back button from the folders in the mail app it takes you back to homescreen
+1590_2	please fix this so that it goes back to inbox and not exit the app
+1590_3	in addition to the current alphabetical view add sorting options like sort by last installed sort by recently accessed also it would be nice to have a shortcut screen like the fullscreen blue alphabet tiles but with dates day ago week ago weeks ago
+1590_4	doing something like the actual webbrowsertask but with uri pointing to file in isolatedstorage
+1591_1	add a method to run another app passing params
+1591_2	there should be a function to costumise the tile depending on mood
+1592_1	if the homescreens tile automaticaly arranged in recent most used favart and latest updated
+1592_2	then it would be better
+1594_1	let us buy internet free sms or minutes in our career codes
+1595_1	let us call codes i think its one of the most important things here
+1596_3	support for word wrap or something would let us give more meaningful titles to our apps with less app title duplications
+1599_2	the ability to broadcast and bind sockets to a port would be handy for making local client server applications where you dont need to specify the server ip
+1600_4	we want a clean and simple interface which works
+1600_12	i for example wrote four applications in about two days
+1600_13	getting them all published took me over three months
+1602_1	its just not right
+1603_1	the process particularly for someone under the age of of getting a dreamspark account particularly now that youve messed up that website and an app hub account is absolutely awful more
+1603_2	windows phone dev is powerless without low level api to access drivers or add features to phone
+1603_3	i have developed an app which plays audio using the backgroundaudioplayer
+1603_4	if i am listening to audio over bluetooth and i pause the audio if the bluetooth device disconnects the audio resumes playing
+1603_5	i run continous background processing in my app frequency analysis of the mic if anyone cares
+1603_6	id like to control the priority of this background thread to make the user experience better
+1603_7	we note that microsoft bought skype so we need an app that includes facebook chat skype chat video call and normal calling
+1603_8	enterprise feature
+1603_9	calendar functionality does not allow for specifying end date for meeting or appointment
+1603_10	bring back reccurrence from wm where you could create complex meeting schedules
+1603_11	then i can write an app to simulate a keyboard or a mouse and dont need software on pc
+1603_12	in sdk give an ui explorer view for isolated storage to download upload isolated storage files from device to desktop
+1603_13	this will help in testing out and debugging applications which use isolated storage significantly
+1604_1	it is not possible to send an email with an attachement ie
+1605_1	when applying for a job
+1605_2	a faster way to switch between vibration on and off than having to open settings ringtonessounds
+1605_3	it would be nice with a switcher on the volume control like the button ringsilent
+1606_1	android gives you the capability to zee how much storage a particular app uses we could really do with this
+1606_2	when ever i make a call my phones screen goes dark even if i am not puting it on my ears
+1606_3	ive read alot of concerns regarding this problem
+1607_1	why shouldnt i as user be able to see reviews made by people from other countries
+1607_2	here in denmark there arent that many wp users yet so a lot of apps will show up in the marketplace without any reviews even though you can see in apptracker that there exist some reviews
+1607_3	to sell phones with qwerty sliding like htc pro arrive while os is not providing landscape for all apps is something between ridicolous and unfair
+1607_5	when you enter a wrong word in the keyboard dictionary eg while typing in word
+1607_6	the only way to remove it is to clear the full dictionary by using keyboard typing settings reset suggestions
+1607_7	we need a way to select the words we want to delete
+1607_9	control to send desired picture to native pinch to zoom controller
+1607_10	one line of code to enable native picture viewer with pinchtozoom
+1607_11	instead of having to tap the screen you should have the choice of locking it at the top of the screen
+1607_12	tuenti is a social network as facebook in spanish or english or catalan it would be very useful for spanish people or south americans or people who have signed up on it to have it integrated into the people hub
+1607_13	i have a lot spanish friends who have hesitated to buy a windows phone and finally didnt buy it because their favourite social network wasnt neither on the marketplace neither on the people hub
+1607_14	android has the pull down notification area well we should have a live tile where all notifications come in so if ur using an app n its not pin to ur start screen you can still know when you have a notification
+1607_16	possibility of viewer and writter rar files and native support rar would good job
+1607_17	the builtin support for some dpws devices would be nice especially printing to wsd printers or capturing images from wsd scanners would be a significant feature
+1607_18	implementing such protocol is not impossible and printing from applications would be welcome not only by developers but by end users as well once available in office applications etc
+1607_19	if phone is lost allow remotely setting custom message on the lock screen ie contact information
+1607_21	as for now the picturedecoder can only decode jpg and run on the ui thread
+1607_22	i am especially thinking about tile generation on background agents id like to have an enriched picturedecoder able to run on any thread and decode png as well
+1607_23	extended ability to highlight text or links within apps such as facebook and twitter for copy paste individual textword highlight of a text bubble with the wp txts
+1607_24	improoved text edit cursor positioning when highlighting text close to the top of the screeb or too far down the scrolling plays up anf makes it awkward to get it right
+1607_25	wifi data transfer wp to wp
+1608_1	the ability for applications to follow the data connection of the device especially edgeg etc
+1608_2	if they run as background tasks with live tiles as most carriers provide limited amount of connection
+1609_1	we can able to call managed code functionality in silver light
+1609_2	but in windows phone for silverlight dosnt provide the dll system windows browser
+1610_1	better multitasking with the ability to have background applications on
+1611_1	example i am playing a game and i pause and want to play later
+1611_2	then i want to use my phone as usual go in to other apps and that kind of stuff
+1611_3	then later when i want to continue playing from where i paused i hold the back button and i see that game is open in the background not only the latest apps
+1611_4	it would be really cool if developers could get api access to xbox live gamertags that way they dont have to make users create a new account just to play multiplayer games
+1611_5	it would also help a lot for leaderboards too
+1611_6	if you look at all of the most popular programs in any field photoshop office chrome etc one thing is always constant and that is rd party extensability
+1612_1	bring this to windows phone to all native apps
+1613_1	instead of making a new camera app allow me to extend the native one
+1613_3	bring this to all of the native apps including office the dialer people hub etc
+1613_4	tab is usefull to jump from textbox to another eg
+1615_1	in the registration forms using only the keyboard
+1615_2	arrows keys to move easly throught the text
+1619_1	when you have more than groups you need to scroll down in case you want to find a single contact
+1619_2	the azbutton should open the lettergrid to jump to the desired point in the list
+1619_3	i would like it to work just like the walgreens app
+1619_4	the mango way to switch between tab is slow as so please implement a quicker way to do that or roll back to the previous ies chrome
+1619_5	greater permission to manage the music
+1619_6	help define the current position of the current music with the mediaplayer zune seek position
+1619_7	to obtain another possibilities to move in the music as the default button fast forward
+1619_8	in a windows desktop alttab is used to switch quickly between apps
+1619_9	we need something just as fast in wp
+1620_1	one suggestion is double tap home icon quickly to see the list of open apps as shown currently
+1622_1	this is faster than holding down the back key for some time
+1622_2	zune payer should support custome codec plugin so one can play any format
+1622_3	please expand the messageboxbutton option in silverlight to include a yesno or yesnocancel option
+1624_1	it would be nice to have a modal control that is standard between applications with additional user choices available
+1624_2	the mutitasking area should have every app that you have opened in it
+1625_1	the last five should be frozen and any more than that should have to restarted
+1625_2	to close an app the user should be able to use herhis finger to flick it upwards webos style
+1625_4	in addition the user should be able to take a screenshot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are more
+1625_5	it will be very useful if you can asign a static ip
+1625_6	ipv begins to be widely supported
+1625_7	it was available in wm and older so it would be great to see this included in wp and later
+1625_8	allow sync of ms exchange notes
+1625_9	because push notifications can easily go unnoticeable there should be a history in the me tile that will also tell you if you missed something
+1625_10	tile counts are nice but i dont have every app pinned nor do i want it that way
+1625_11	just a history for one days notifications would be enough
+1625_12	it would be really nice to have a share task that i could pass a stream to in order to share an image
+1625_13	this task could bring up the same interface when i share an photo from my pictures library
+1625_14	it would make it simple to share photos to facebook and twitter if the user already has it setup
+1625_15	it would also make it possible to finally share photos via sms and email programmatically
+1625_16	examples google should be able to add google support to me people hubs
+1625_17	amazon should be able to integrate their cloud music seamlessly with musicvideo hub
+1625_18	flickr should be able to integrate with picture hub
+1625_19	when searching in the market you should be able to open the app if already installed
+1625_20	please provide apis for call forwarding and other call management functionsholdunholdswapconferenceetc
+1625_21	as a user i would like to be able to select songs that i have put on the device from my library to wake up to
+1626_1	as a developer i can only allow the user to choose from songs that i included with the app
+1627_1	the main workaround ive seen in the various alarm clock apps is to force the user to keep the app open over night which is not particularly awesome for battery life
+1627_2	add an option to customize the size of pictures uploaded to skydrive or send via mail
+1627_3	also add an option to autoupload full images tu skydrive and not only x px as preset on the lumia
+1627_4	right now you can start apps by holding down the windows button and saying start appname
+1627_5	it would be great if you could start an app while adding some instructions for example facebook show me messages office create new word document prime tv mark house season episode as watched
+1627_6	when holding my phone in one hand the palm of my hand just below my thumb come very close to the search button and a stretch to far can often send me off to the search function while i am texting or writing an email
+1627_7	is there any possibilty that these controls can somehow be made less sensitive or become a more mechanical click
+1627_8	the touchmove event is called only once when i move my finger across the screen
+1627_9	so i cant create complex html pages with a fixed header and a scrollable content
+1627_10	i will move the content per javascript but i can not because the touchmove event is not triggered
+1627_11	please implement the whole touchapi in the internet explorer and the webbrowser control
+1627_12	this is very important for mobile websites because iphone and android support this
+1627_13	emails are non editable while
+1627_14	enable picture password as in windows
+1627_15	deleting multiple for sms as email services
+1627_16	i am thinking about a sdk to allow me to create an account app
+1627_17	so like google facebook linkedin i want to create contacts calendar and access to message hub also writing messages with my account
+1627_18	marketplace upload of this kind should be more restricted to avoid problems
+1628_1	when i am reading a web page or other document i would find it incredibly useful to be able to jump to the jump of the document without endless swiping
+1629_1	if more elements one day
+1630_1	we cant see the other
+1631_1	it is slightly fustrating when one or two screenshots take longer to load and you cannot skip them while swiping through the images
+1632_1	like windows mobile and older version
+1632_2	currently you can only have the review page from the app list with the contextual menu
+1633_1	it will be pleasant to go the main page of the app in the marketplace to see the general prsentation screenshots the other users reviews
+1633_2	add capability to enter manual parametets for visual voicemail
+1633_3	currently in the all applications view tge jumplist appears only when there are more than apps
+1633_4	i have about apps and it is already difficult to find an app i think the jumplist shuld be always available
+1633_5	i believe scrolling should be improved
+1633_6	as sometimes when users are viewing a long document they sometimes might want to skip to the middlelower section
+1633_7	but scrolling seems to take a little long
+1634_1	thus this idea is actually for the developers to make scrolling faster after each subsequent scroll like every scrolls the scrolling speed will increase
+1634_2	ensure that we can buy clips movies and videos directly to wp without necessarily going through a pc
+1634_4	swipe from the top down with two fingers and flick through the last closed app as seen in windows
+1634_5	for instance email and messaging notifications could be silenced at night whilst call ringtones would function as normal
+1634_7	by benchmarking a developer a good developer work
+1634_8	it will encourage a developer to design better apps and it makes very easy for customers to choose the right apps ibstead of selectibg some poorly designed apps and wasting the time
+1634_9	i see many developers can be benefited from textspeech api
+1634_10	it can also bring in whole range of new apps for windows phone
+1634_11	in android for cdm google is providing free account and restrict number of messages per day
+1634_12	supporting windows authentication could be very usefull for example writing app that interacts with microsoft dynamics crm
+1634_13	currently only a defined set of extensions are supported for files to upload to skydrive using the new live api which limit really the usage of the api
+1634_14	for example my app can export csv files and i had to rename their extensions to txt to be able to upload them to skydrive using the live api
+1634_15	the language should be a search critreria for apps and games
+1634_16	the nonenglish marketplaces are filled with apps that support only english and it is hard to find apps in my native language
+1635_1	if its ms windows phone then make it as a part of the network
+1635_2	will see all shared resources
+1635_3	one shared folder can be set on phone device
+1635_4	easy to access and transfer on both sides pcphone
+1635_5	a business feature that would be really nice to have support for it the ability to tie into a voip network for voip phone calls the most common architecture is the sip session initiation protocol
+1635_6	so i would like the ability to configure a sip client that ties into our voip pbx and phone system so my wp would basically become my desk phone extension
+1635_7	the only way this would really work well is if it ran in the background like the phones native phone functionality
+1635_9	if there is an app developer the a customer lukes id be good to see everything that they have made
+1635_10	full or almost entity framework support including graphic class designer and interop with regular ef assemblies making it easy for developers to reuse model and persistence classes in the phone without the need to redo all the work in linq and some nasty tricks
+1635_12	it would be nice to have the deployment ability on my home computer able to be done wirelessly
+1637_1	this includes deploying in visual studio while developing and using the application deployment tool that is installed w the dev tools
+1638_1	for me the benefit would be that when i dont have a microusb cable handy i can still dev and deploy to my phone to try something out or deploy my friends xap to my phone wo having to go find a cable first
+1639_1	this could be implemented via wifi of course since zune does wireless sync already or even bluetooth once we get bluetooth data transfer ability
+1640_1	wp lacks usb audio functionality with microsoft sync in cars
+1640_2	bluetooth playing audio is very limited
+1640_3	requesting mtp and mass storage functionality since competitors like iphone are able to do all this already with sync
+1641_1	in isolatedstorage image file can save to local medialibrarywhy not record wave file can not
+1642_1	too slow and too little possibilities
+1644_2	i took a while until i realized that i forgot staticresource within the style attribute
+1645_1	its very hard to create application supporting multiple languages
+1645_2	give functionalities like resource manager as given by ide of other platforms
+1645_3	managing resources and folder structure for them should be made easier
+1645_4	make an eq for the mp playerat the moment the volume its really low
+1645_5	curently persons max
+1645_7	please enable pinning of the wifi settings on start page
+1646_1	splashscreenimagelight and splashscreenimagedark would be great
+1647_1	after that it would be great to have the option to select an image from isolatedstorage so that my app can update its splash screen image as needed
+1650_2	make it so that a meteo style app would only need to adapt its ui to run on windows phone
+1652_1	it would also be nice to have to deploy only one package to the marketplace but only the needed bits would be tranfered
+1653_1	add movies and books would be an excellent addition for the system
+1653_2	enable speech command to play songs selection by saying play song name play artist play album
+1654_1	i believe the single most important thing for windows phone to be successful is that users in all countries should have the same services available
+1657_1	now when the marketplace has become available it would be great if users in other countries than us could migrate their accounts to the country they really live in
+1658_1	since windows phones are selling hot in countries like india browser should start displaying indian language characters
+1658_2	allow user to set different accent colors for different tiles
+1658_3	we should have small tiles instead of a long list of apps of which you downloaded like android and ios
+1658_7	an app should be able to publish a service that is disvoerable and consumable by other apps
+1658_8	for example if i have an app that can process images i want other apps to be able to dicover my app and submit photos for me to process
+1659_1	i would like access to a stream for music played via the media library
+1660_1	i wish the functionality to access and synchronize the public folder from exchange eg the public contacts or the calendar
